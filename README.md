@@ -1,4 +1,7 @@
 # 買うのはモヤシ / buying-checklist
+
+![bean-sprout license free image](doc/bean-sprouts-plastic-bag_free-licensed.png)
+
 Application for frequently repeated buying task. Preset template with history. (now: planned state)
 
 * Inspired by [Remember the milk](https://www.rememberthemilk.com/)
